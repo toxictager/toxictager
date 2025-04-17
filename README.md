@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey there, I'm Loui (a.k.a. toxictager)
 
-<!--
-**toxictager/toxictager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring ethical hacker and Python automation enthusiast  
+🎯 Currently learning cybersecurity, scripting, and how to break (and fix) things  
+📍 Fluent in English 🇬🇧, Hebrew 🇮🇱, and Bulgarian 🇧🇬
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 About Me
+
+- 🔭 I’m currently building Python tools to help with cybersecurity studies  
+- 🧠 Constantly learning ethical hacking, Linux, and penetration testing  
+- 🧰 I use GitHub to share my tools, projects, and track my growth
+  
+---
+
+## 🛠 My Projects
+
+### 📝 [Notes App](https://github.com/toxictager/notes-project)
+A clean note-taking app built with PyQt6 and Python. Designed for organizing cybersecurity notes.
+
+👉 Try the [Windows EXE version here](https://github.com/toxictager/note-exe/releases/latest)
+
+---
+
+## 📌 Skills
+
+- **Languages**: Python, Batch, VBScript  
+- **Cybersecurity**: OSINT tools, encryption basics, scripting  
+- **Tools**: Git, GitHub, Linux (Ubuntu Server), AnythingLLM, PyQt6  
+- **Other**: Markdown, automation, system-level scripting
+
+---
+
+## 📫 Contact Me
+
+- **Email:** louilevyofficial@gmail.com  
+- **GitHub:** [@toxictager](https://github.com/toxictager)
+
+Let’s build and break things — the ethical way 🔐
