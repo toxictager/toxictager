@@ -10,8 +10,6 @@
 - 🛠 Building tools to support my journey into cybersecurity & automation
 - 🎯 Focused on Python scripting, GUI apps, and ethical hacking
 - 🌐 Fluent in Bulgarian 🇧🇬, Hebrew 🇮🇱, and English 🇬🇧
-- 🎓 Future CS student @ Технически университет София
-
 ---
 
 ### 🚀 Projects
