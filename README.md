@@ -1,40 +1,51 @@
-# 👋 Hey there, I'm Loui (a.k.a. toxictager)
-
-💻 Aspiring ethical hacker and Python automation enthusiast  
-🎯 Currently learning cybersecurity, scripting, and how to break (and fix) things  
-📍 Fluent in English 🇬🇧, Hebrew 🇮🇱, and Bulgarian 🇧🇬
-
----
-
-## 🔐 About Me
-
-- 🔭 I’m currently building Python tools to help with cybersecurity studies  
-- 🧠 Constantly learning ethical hacking, Linux, and penetration testing  
-- 🧰 I use GitHub to share my tools, projects, and track my growth
-  
----
-
-## 🛠 My Projects
-
-### 📝 [Notes App](https://github.com/toxictager/notes-project)
-A clean note-taking app built with PyQt6 and Python. Designed for organizing cybersecurity notes.
-
-👉 Try the [Windows EXE version here](https://github.com/toxictager/note-exe/releases/latest)
+<h1 align="center">👋 Hey, I'm Loui (aka toxictager)</h1>
+<p align="center">
+  💻 Aspiring Ethical Hacker | 🐍 Python Automator 
+</p>
 
 ---
 
-## 📌 Skills
+### 🧠 About Me
 
-- **Languages**: Python, Batch, VBScript  
-- **Cybersecurity**: OSINT tools, encryption basics, scripting  
-- **Tools**: Git, GitHub, Linux (Ubuntu Server), AnythingLLM, PyQt6  
-- **Other**: Markdown, automation, system-level scripting
+- 🛠 Building tools to support my journey into cybersecurity & automation
+- 🎯 Focused on Python scripting, GUI apps, and ethical hacking
+- 🌐 Fluent in Bulgarian 🇧🇬, Hebrew 🇮🇱, and English 🇬🇧
+- 🎓 Future CS student @ Технически университет София
 
 ---
 
-## 📫 Contact Me
+### 🚀 Projects
+
+#### 📝 [Notes App (PyQt6)](https://github.com/toxictager/notes-project)
+Simple, offline note-taking tool with autosave and folder organization
+
+▶️ [Download .EXE version](https://github.com/toxictager/note-exe/releases/latest)
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages**: Python, Batch, VBScript
+- **Cybersecurity**: OSINT tools, encryption basics, custom scripts
+- **Tools**: Git, GitHub, Linux (Ubuntu Server), AnythingLLM, PyQt6
+- **Other**: Markdown, GUI design, automation
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toxictager&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxictager&layout=compact&theme=tokyonight" height="160">
+</p>
+
+---
+
+### 📫 Contact Me
 
 - **Email:** louilevyofficial@gmail.com  
 - **GitHub:** [@toxictager](https://github.com/toxictager)
 
-Let’s build and break things — the ethical way 🔐
+---
+
+> *"Tools don’t make the hacker. Curiosity and obsession do."* – Unknown Hacker
